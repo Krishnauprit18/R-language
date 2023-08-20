@@ -1,0 +1,7 @@
+R language notes: 
+Factors:-1) attributes of a factor:--> X- it is the input vector which is to be transformed into a factor.
+levels- it represents a set of unique values which are taken by x.
+labels- it is a character vector which corresponds to the number of labels.
+exclude- it is used to specify the value which we want to be excluded.
+ordered- it is a logical attribute which determines if the levels are ordered.
+nmax- it is used to specify the upper bound for maximum number of level.
